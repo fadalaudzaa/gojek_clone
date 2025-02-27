@@ -4,7 +4,7 @@
 A Flutter application that replicates the Gojek app UI.
 |Preview 1| Preview 2 | Preview 3 |
 |--|--|--|
-![Gojek Clone UI_1](https://raw.githubusercontent.com/fadalaudzaa/gojek_clone/refs/heads/main/screenshot/ss1.png?token=GHSAT0AAAAAAC7UZGPG4NMBYN4KMXSPPQ3WZ6ABNEQ)| ![Gojek Clone UI_2](https://raw.githubusercontent.com/fadalaudzaa/gojek_clone/refs/heads/main/screenshot/ss2.png?token=GHSAT0AAAAAAC7UZGPGEWMQOYEKMLJVM23SZ6ABNKQ) | ![Gojek Clone UI_3](https://raw.githubusercontent.com/fadalaudzaa/gojek_clone/refs/heads/main/screenshot/ss3.png?token=GHSAT0AAAAAAC7UZGPGZ47YCHFYNI5E3VO2Z6ABN2Q) |  |
+![Gojek Clone UI_1](https://raw.githubusercontent.com/fadalaudzaa/gojek_clone/refs/heads/main/screenshot/ss1.png)| ![Gojek Clone UI_2](https://raw.githubusercontent.com/fadalaudzaa/gojek_clone/refs/heads/main/screenshot/ss2.png) | ![Gojek Clone UI_3](https://raw.githubusercontent.com/fadalaudzaa/gojek_clone/refs/heads/main/screenshot/ss3.png) |  |
 
 ## 📱 Description
 
